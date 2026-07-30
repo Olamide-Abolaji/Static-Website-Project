@@ -62,28 +62,6 @@ It's designed to show beginners what a real CI/CD workflow looks like — not ju
 | Source Control | GitHub (via CodeStar Connection) |
 | DNS *(optional)* | Amazon Route 53 |
 
----
-
-## </> BUCKET POLICY
-{
-    "Version": "2012-10-17",
-    "Statement": [
-    	{
-        	"Sid": "PublicReadGetObject",
-        	"Effect": "Allow",
-        	"Principal": "*",
-        	"Action": [
-            	"s3:GetObject"
-        	],
-        	"Resource": [
-                "arn:aws:s3:::Bucket-Name/*"
-        	]
-    	}
-    ]
-}
-
-
-
 ## 🚀 CI/CD Pipeline Stages
 
 1. **Source** — CodePipeline is connected to this GitHub repo via a CodeStar Connection. Any push to `main` triggers the pipeline.
