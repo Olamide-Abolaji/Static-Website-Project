@@ -2,7 +2,7 @@
 
 A fully automated static website deployment pipeline — push to GitHub, and your site goes live on AWS in minutes. No manual uploads, no manual cache busting.
 
-Built as part of the **[Build With OlaToms](https://www.youtube.com/@BuildWithOlamide/videos)** AWS series, where we go from zero to a real, production-style cloud deployment.
+Built as part of the **[Build With Olamide](https://www.youtube.com/@BuildWithOlamide/videos)** AWS series, where we go from zero to a real, production-style cloud deployment.
 
 🔗 **Live Site:** [your-cloudfront-or-custom-domain-url-here]
 🎥 **Watch the full build:** [link to your YouTube tutorial]
@@ -142,7 +142,7 @@ This project is part of the **Build With OlaToms** AWS series, where cloud conce
 ## 👨‍💻 Author
 
 **Olamide** — AWS Authorized Instructor | Cloud Engineer | IT Trainer
-🔗 [@ola_toms](https://www.instagram.com/build_with_olamide/) · [Build With OlaToms on YouTube](https://www.youtube.com/@BuildWithOlamide/videos)
+🔗 [@ola_toms](https://www.instagram.com/build_with_olamide/) · [Build With Olamide on YouTube](https://www.youtube.com/@BuildWithOlamide/videos)
 
 ---
 
