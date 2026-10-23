@@ -69,7 +69,6 @@ It's designed to show beginners what a real CI/CD workflow looks like — not ju
 3. **Cache Invalidation** — A CloudFront invalidation is triggered so users get the latest version immediately instead of a cached copy.
 
 ---
-<img width="1254" height="1254" alt="a9c39c2a-f30f-42b3-9388-b07905940c55" src="https://github.com/user-attachments/assets/01642834-bc90-4851-ad51-82f3a19e7be4" />
 
 ## 📂 Project Structure
 
